@@ -13,7 +13,7 @@ import { ActivityMonitorService } from './activity-monitor.service';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'afn-http-static ng6';
+  title = 'Material 2 & Ng-Idle ng6';
   popRef: MatDialogRef<MessageComponent>;
 
   status;
