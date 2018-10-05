@@ -11,3 +11,5 @@ There is an issue I have discovered with Ng-Idle, Material 6 nad Angular 6
     
 ## What is the issue?
 When ng-idle executes `onIdleEnd` the currently displayed `mat-dialog` isn't closing when invoked. See lines `37 - 43` in `app.component.ts` file.
+
+[See my Stackblitz](https://stackblitz.com/github/alobban/MatDialogNgIdleIssue)
