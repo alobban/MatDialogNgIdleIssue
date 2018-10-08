@@ -1,7 +1,7 @@
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
 # MatDialogNgIdleIssue
 
-There is an issue I have discovered with Ng-Idle, Material 6 nad Angular 6
+There is an issue I have discovered with Ng-Idle, Material 6 and Angular 6
 
     "@ng-idle/core": "^6.0.0-beta.3"
     "@ng-idle/keepalive": "^6.0.0-beta.3"
